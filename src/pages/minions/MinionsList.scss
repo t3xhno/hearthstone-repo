@@ -1,0 +1,11 @@
+.content-wrapper {
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.minions-list {
+    gap: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+}

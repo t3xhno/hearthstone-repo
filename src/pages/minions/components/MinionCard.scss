@@ -1,0 +1,18 @@
+.minion {
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: 2px solid #555;
+
+    img {
+        max-width: 8rem;
+    }
+    
+    .minion-name {
+        max-width: 8rem;
+        min-height: 2rem;
+        font-weight: 900;
+        font-size: 0.7rem;
+        text-align: center;
+        text-wrap: balance;
+    }
+}

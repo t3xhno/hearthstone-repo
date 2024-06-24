@@ -1,0 +1,18 @@
+.minion-filters-wrapper {
+    gap: 2rem;
+    display: flex;
+    align-items: center;
+
+    .minion-filter {
+        width: 10rem;
+
+        select {
+            width: 100%;
+            color: #FFF;
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+            background: transparent;
+            border: 1px solid #555;
+        }
+    }
+}
